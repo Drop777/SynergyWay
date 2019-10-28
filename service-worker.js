@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SynergyWay/precache-manifest.ba7098c5f847657fdecc5cbc7b6f3e12.js"
+  "/SynergyWay/precache-manifest.88a9121a7f8535e8925ba4054f111867.js"
 );
 
 self.addEventListener('message', (event) => {
