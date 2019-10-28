@@ -1,5 +1,5 @@
 {
-  "homepage":"https://drop777.github.io/SynergyWay",
+  "homepage": "https://drop777.github.io/SynergyWay",
   "name": "test-task",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +7,7 @@
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
     "eslint-config-airbnb": "^18.0.1",
+    "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -22,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

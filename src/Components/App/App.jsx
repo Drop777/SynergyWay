@@ -21,9 +21,12 @@ class App extends React.Component {
   totalAmount = () => {
     const { basket } = this.props;
     let amount = 0;
-    [...basket].forEach((item) => {
-      amount += item.amount;
-    });
+    if (basket.length !== 0) {
+      [...basket].forEach((item) => {
+        amount += item.amount;
+      });
+      return amount;
+    }
     return amount;
   };
 
