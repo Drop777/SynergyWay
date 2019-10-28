@@ -5,7 +5,6 @@ const initialState = localStorage['redux-store']
   : {
     products: [],
     basket: [],
-    itemsInBasket: 0,
   };
 
 
