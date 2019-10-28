@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6525211be1bb724ee035b05e614deac",
+    "revision": "90aa8aa25f828c7b18d2853d8b209b44",
     "url": "/SynergyWay/index.html"
   },
   {
-    "revision": "91dbd623a5d1d440df6b",
+    "revision": "9ce3f0f02e16b6eaa2eb",
     "url": "/SynergyWay/static/css/main.dd082887.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SynergyWay/static/js/2.b7089791.chunk.js"
   },
   {
-    "revision": "91dbd623a5d1d440df6b",
-    "url": "/SynergyWay/static/js/main.8f0b9362.chunk.js"
+    "revision": "9ce3f0f02e16b6eaa2eb",
+    "url": "/SynergyWay/static/js/main.deeb2b24.chunk.js"
   },
   {
     "revision": "9dc3d471c52223f772e7",
