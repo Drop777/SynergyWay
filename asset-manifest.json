@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SynergyWay/static/css/main.dd082887.chunk.css",
+    "main.js": "/SynergyWay/static/js/main.8a2f9e9f.chunk.js",
+    "main.js.map": "/SynergyWay/static/js/main.8a2f9e9f.chunk.js.map",
+    "runtime-main.js": "/SynergyWay/static/js/runtime-main.8fc165d9.js",
+    "runtime-main.js.map": "/SynergyWay/static/js/runtime-main.8fc165d9.js.map",
+    "static/js/2.b7089791.chunk.js": "/SynergyWay/static/js/2.b7089791.chunk.js",
+    "static/js/2.b7089791.chunk.js.map": "/SynergyWay/static/js/2.b7089791.chunk.js.map",
+    "index.html": "/SynergyWay/index.html",
+    "precache-manifest.ba7098c5f847657fdecc5cbc7b6f3e12.js": "/SynergyWay/precache-manifest.ba7098c5f847657fdecc5cbc7b6f3e12.js",
+    "service-worker.js": "/SynergyWay/service-worker.js",
+    "static/css/main.dd082887.chunk.css.map": "/SynergyWay/static/css/main.dd082887.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc165d9.js",
+    "static/js/2.b7089791.chunk.js",
+    "static/css/main.dd082887.chunk.css",
+    "static/js/main.8a2f9e9f.chunk.js"
+  ]
+}
